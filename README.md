@@ -1,0 +1,1 @@
+# SOGO_Smart-city-sensor
