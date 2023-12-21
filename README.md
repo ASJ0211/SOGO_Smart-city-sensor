@@ -75,8 +75,6 @@ auto ml을 통해 확인하였을때
 기존 row 데이터 (rmse: 960) > 전처리,파생변수 생성 후 데이터(rmse: 55)로 
 데이터 EDA를 통해 인사이트를 도출하고 만들어낸 파생변수가 유의미하게 작용하여 초기모델에 비해 향상됨을 확인.
 또한 shap 변수 중요도를 활용해 변수와 target의 관계를 시각화 하였음.
-![image](https://github.com/ASJ0211/nonsan_pred_DCC/assets/118821779/77d481a4-3ae4-43eb-88b9-15888260fa96)
-
 
 ### ⭐ Learnd Lessons
 
